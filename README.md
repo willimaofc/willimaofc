@@ -64,7 +64,7 @@ Crio **scripts e ferramentas** para otimizar o dia a dia (IT/SecOps), escrevo **
 
 ### 🔗 Perfis e Badges
 <p align="center">
-  <a href="https://tryhackme.com/p/willimaofc"><img src="https://img.shields.io/badge/TryHackMe-%2312100E.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://tryhackme.com/p/zx.offsec"><img src="https://img.shields.io/badge/TryHackMe-%2312100E.svg?&style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
   <a href="https://app.hackthebox.com/profile/"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green" /></a>
   <a href="https://linkedin.com/in/wil-limaofc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/willimaofc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
